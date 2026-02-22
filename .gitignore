@@ -1,0 +1,4 @@
+#ignoring data
+data/
+#ignore notebook
+*.nb.html
